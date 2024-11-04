@@ -1,0 +1,16 @@
+2024-11-04 12:59:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-11-04 12:59:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-11-04 12:59:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-11-04 12:59:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-11-04 12:59:28 INFO  - Browser 'CHROME' ready...
+2024-11-04 12:59:28 INFO  - Maximizing browser window
+2024-11-04 12:59:28 INFO  - Navigate to url - 'https://demoqa.com/text-box'
+2024-11-04 12:59:34 INFO  - Navigate to url - 'https://demoqa.com/text-box'
+2024-11-04 12:59:36 INFO  - Text Field 'Full Name' :: Clearing
+2024-11-04 12:59:36 INFO  - Text Field 'Full Name' :: Typing 'John'
+2024-11-04 12:59:37 INFO  - Label 'Bottom Name' :: Getting text from element
+2024-11-04 12:59:37 INFO  - Label 'Bottom Name' :: Element's text: [Name:John]
+2024-11-04 12:59:37 INFO  - Label 'Bottom Name' :: Getting text from element
+2024-11-04 12:59:37 INFO  - Label 'Bottom Name' :: Element's text: [Name:John]
